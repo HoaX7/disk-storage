@@ -1,0 +1,24 @@
+{
+  "name": "@hoax7/disk_storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hoax",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoaX7/disk-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HoaX7/disk-storage/issues"
+  },
+  "homepage": "https://github.com/HoaX7/disk-storage#readme",
+  "description": ""
+}
